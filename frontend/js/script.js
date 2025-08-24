@@ -44,11 +44,11 @@ const createMessageOtherElement = (content, sender, senderColor) => {
 
 
 const color = [
-    "black",
-    "red",
-    "gold",
-    "hotpink",
-    "darkkhaki",
+    "rgba(0, 0, 0, 1)",
+    "rgba(34, 240, 255, 1)",
+    "rgba(255, 255, 255, 1)",
+    "rgba(49, 34, 255, 1)",
+    "#f2f"
 ]
 
 const getRandomColor = () => {
